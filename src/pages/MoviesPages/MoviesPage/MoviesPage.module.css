@@ -1,0 +1,11 @@
+.MoviesPageWrapper {
+    /*width: 90%;*/
+}
+
+.MoviesPageWrapper > h2 {
+    text-align: center;
+}
+
+.MoviesListWrapper {
+    margin: 20px 0;
+}

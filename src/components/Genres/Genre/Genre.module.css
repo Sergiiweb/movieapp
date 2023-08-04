@@ -1,0 +1,22 @@
+.genreWrap {
+    margin: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.genreWrap a {
+    text-decoration: none;
+    background-color: #DCDCDB;
+    color: #656565;
+    border-radius: 5px;
+    padding: 2px 3px;
+}
+
+.genreWrap a:active {
+    background-color: orange;
+}
+
+.genreWrap a[class='active'] {
+    background-color: orange;
+    color: #FFFFFF;
+}
